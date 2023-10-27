@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T14:53:08.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="vW-fHixH8Au0AFWnJv7o" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T17:14:41.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="2UA0UHaBDqdUJCWZ9knS" version="22.0.8" type="github" pages="2">
   <diagram name="MISC" id="rBWFjFio3Ul1B9PG4kiV">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -204,91 +204,286 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-4" value="PV - munitions - conséquences" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-4" value="PV - munitions - conséquences" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="80" y="710" width="620" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-4">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" parent="RLU5fH5EEIldTsOhPZaF-4" vertex="1">
           <mxGeometry y="30" width="620" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-14" value="Mur" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;align=left;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-5">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-14" value="Mur" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;align=left;" parent="RLU5fH5EEIldTsOhPZaF-5" vertex="1">
           <mxGeometry width="100" height="30" as="geometry">
             <mxRectangle width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-6" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-5">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-6" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;" parent="RLU5fH5EEIldTsOhPZaF-5" vertex="1">
           <mxGeometry x="100" width="80" height="30" as="geometry">
             <mxRectangle width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-20" value="bombes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-5">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-20" value="bombes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;" parent="RLU5fH5EEIldTsOhPZaF-5" vertex="1">
           <mxGeometry x="180" width="90" height="30" as="geometry">
             <mxRectangle width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-7" value="Explosion " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-5">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-7" value="Explosion " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" parent="RLU5fH5EEIldTsOhPZaF-5" vertex="1">
           <mxGeometry x="270" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-17" value="Sortie - fin niveau" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-5">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-17" value="Sortie - fin niveau" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" parent="RLU5fH5EEIldTsOhPZaF-5" vertex="1">
           <mxGeometry x="390" width="230" height="30" as="geometry">
             <mxRectangle width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-4">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" parent="RLU5fH5EEIldTsOhPZaF-4" vertex="1">
           <mxGeometry y="60" width="620" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-15" value="Ennemi" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;align=left;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-8">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-15" value="Ennemi" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;align=left;" parent="RLU5fH5EEIldTsOhPZaF-8" vertex="1">
           <mxGeometry width="100" height="30" as="geometry">
             <mxRectangle width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-9" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-8">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-9" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" parent="RLU5fH5EEIldTsOhPZaF-8" vertex="1">
           <mxGeometry x="100" width="80" height="30" as="geometry">
             <mxRectangle width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-21" value="balles" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-8">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-21" value="balles" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" parent="RLU5fH5EEIldTsOhPZaF-8" vertex="1">
           <mxGeometry x="180" width="90" height="30" as="geometry">
             <mxRectangle width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-10" value="Mort" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-8">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-10" value="Mort" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" parent="RLU5fH5EEIldTsOhPZaF-8" vertex="1">
           <mxGeometry x="270" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-18" value="Bombe" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-8">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-18" value="Bombe" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" parent="RLU5fH5EEIldTsOhPZaF-8" vertex="1">
           <mxGeometry x="390" width="230" height="30" as="geometry">
             <mxRectangle width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-4">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" parent="RLU5fH5EEIldTsOhPZaF-4" vertex="1">
           <mxGeometry y="90" width="620" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-16" value="Player" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;align=left;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-11">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-16" value="Player" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;align=left;" parent="RLU5fH5EEIldTsOhPZaF-11" vertex="1">
           <mxGeometry width="100" height="30" as="geometry">
             <mxRectangle width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-12" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-11">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-12" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" parent="RLU5fH5EEIldTsOhPZaF-11" vertex="1">
           <mxGeometry x="100" width="80" height="30" as="geometry">
             <mxRectangle width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-22" value="projectiles" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-11">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-22" value="projectiles" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" parent="RLU5fH5EEIldTsOhPZaF-11" vertex="1">
           <mxGeometry x="180" width="90" height="30" as="geometry">
             <mxRectangle width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-13" value="Mort" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-11">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-13" value="Mort" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" parent="RLU5fH5EEIldTsOhPZaF-11" vertex="1">
           <mxGeometry x="270" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLU5fH5EEIldTsOhPZaF-19" value="Perdu - fin niveau" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="RLU5fH5EEIldTsOhPZaF-11">
+        <mxCell id="RLU5fH5EEIldTsOhPZaF-19" value="Perdu - fin niveau" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" parent="RLU5fH5EEIldTsOhPZaF-11" vertex="1">
           <mxGeometry x="390" width="230" height="30" as="geometry">
             <mxRectangle width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1FsLttSPVDijaht2sa7_" name="Page-2">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TV1Umq3TX2ORutAn-53c-7" value="&lt;div&gt;Orga des scripts&lt;/div&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="60" width="590" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-7">
+          <mxGeometry y="30" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-9" value="GO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-8">
+          <mxGeometry width="110" height="40" as="geometry">
+            <mxRectangle width="110" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-10" value="Actions" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-8">
+          <mxGeometry x="110" width="130" height="40" as="geometry">
+            <mxRectangle width="130" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-41" value="Needs" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-8">
+          <mxGeometry x="240" width="130" height="40" as="geometry">
+            <mxRectangle width="130" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-20" value="&lt;div&gt;Scripts&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-8">
+          <mxGeometry x="370" width="220" height="40" as="geometry">
+            <mxRectangle width="220" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-7">
+          <mxGeometry y="70" width="590" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-12" value="&lt;div&gt;Player&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-11">
+          <mxGeometry width="110" height="130" as="geometry">
+            <mxRectangle width="110" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-13" value="&lt;div&gt;- shoot bullet&lt;/div&gt;&lt;div&gt;- move&lt;br&gt;&lt;/div&gt;&lt;div&gt;- die&lt;/div&gt;&lt;div&gt;- appear&lt;/div&gt;&lt;div&gt;- take bombs&lt;/div&gt;&lt;div&gt;- drop bombs&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-11">
+          <mxGeometry x="110" width="130" height="130" as="geometry">
+            <mxRectangle width="130" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-42" value="&lt;div&gt;SCORE to know:&lt;/div&gt;&lt;div&gt;- when player is dead&lt;/div&gt;&lt;div&gt;- when enemies are dead&lt;/div&gt;&lt;div&gt;- how many bombs does the player have&lt;/div&gt;&lt;div&gt;- when wall is destroyed&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-11">
+          <mxGeometry x="240" width="130" height="130" as="geometry">
+            <mxRectangle width="130" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-21" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-11">
+          <mxGeometry x="370" width="220" height="130" as="geometry">
+            <mxRectangle width="220" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-7">
+          <mxGeometry y="200" width="590" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-15" value="&lt;div&gt;Enemy&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-14">
+          <mxGeometry width="110" height="130" as="geometry">
+            <mxRectangle width="110" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-16" value="&lt;div&gt;- shoot projectiles&lt;br&gt;&lt;/div&gt;&lt;div&gt;- move&lt;/div&gt;&lt;div&gt;- die&lt;/div&gt;&lt;div&gt;- drop bombs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-14">
+          <mxGeometry x="110" width="130" height="130" as="geometry">
+            <mxRectangle width="130" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-43" value="&lt;div&gt;how does an ENEMY MOVE?&lt;/div&gt;&lt;div&gt;- rotates on himself&lt;/div&gt;&lt;div&gt;- follows the player&lt;/div&gt;&lt;div&gt;- moves from left to right or fwd/back&lt;/div&gt;&lt;div&gt;- jumps&lt;/div&gt;&lt;div&gt;- all at once&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-14">
+          <mxGeometry x="240" width="130" height="130" as="geometry">
+            <mxRectangle width="130" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-22" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-14">
+          <mxGeometry x="370" width="220" height="130" as="geometry">
+            <mxRectangle width="220" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-7">
+          <mxGeometry y="330" width="590" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-18" value="Bullet" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-17">
+          <mxGeometry width="110" height="100" as="geometry">
+            <mxRectangle width="110" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-19" value="&lt;div&gt;- shot by player&lt;/div&gt;&lt;div&gt;- disappear on collision&lt;/div&gt;&lt;div&gt;- only kill enemies&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-17">
+          <mxGeometry x="110" width="130" height="100" as="geometry">
+            <mxRectangle width="130" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-44" value="&lt;div&gt;PARTICLES:&lt;/div&gt;&lt;div&gt;- when something is hit&lt;/div&gt;&lt;div&gt;- when something is dead or destroyed&lt;/div&gt;&lt;div&gt;- when enemy is moving&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-17">
+          <mxGeometry x="240" width="130" height="100" as="geometry">
+            <mxRectangle width="130" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-23" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-17">
+          <mxGeometry x="370" width="220" height="100" as="geometry">
+            <mxRectangle width="220" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-25" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-7">
+          <mxGeometry y="430" width="590" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-26" value="Projectile" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-25">
+          <mxGeometry width="110" height="60" as="geometry">
+            <mxRectangle width="110" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-27" value="&lt;div&gt;- shot by enemies&lt;/div&gt;&lt;div&gt;- only kills player&lt;/div&gt;&lt;div&gt;- disappear on collision&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-25">
+          <mxGeometry x="110" width="130" height="60" as="geometry">
+            <mxRectangle width="130" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-45" value="SOUNDS : idem" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-25">
+          <mxGeometry x="240" width="130" height="60" as="geometry">
+            <mxRectangle width="130" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-28" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-25">
+          <mxGeometry x="370" width="220" height="60" as="geometry">
+            <mxRectangle width="220" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-29" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-7">
+          <mxGeometry y="490" width="590" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-30" value="Bomb" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-29">
+          <mxGeometry width="110" height="90" as="geometry">
+            <mxRectangle width="110" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-31" value="&lt;div&gt;- dropped by dead enemies&lt;/div&gt;&lt;div&gt;- must be taken by player&lt;/div&gt;&lt;div&gt;- destroy walls and enemies&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-29">
+          <mxGeometry x="110" width="130" height="90" as="geometry">
+            <mxRectangle width="130" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-46" value="ASSETS: what kind?" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-29">
+          <mxGeometry x="240" width="130" height="90" as="geometry">
+            <mxRectangle width="130" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-32" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-29">
+          <mxGeometry x="370" width="220" height="90" as="geometry">
+            <mxRectangle width="220" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-33" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-7">
+          <mxGeometry y="580" width="590" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-34" value="Wall" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-33">
+          <mxGeometry width="110" height="80" as="geometry">
+            <mxRectangle width="110" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-35" value="&lt;div&gt;- must be destroyed by player to exit zone&lt;/div&gt;&lt;div&gt;- dropped by dead enemies&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-33">
+          <mxGeometry x="110" width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-47" value="UI: IDK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-33">
+          <mxGeometry x="240" width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-36" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-33">
+          <mxGeometry x="370" width="220" height="80" as="geometry">
+            <mxRectangle width="220" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-37" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-7">
+          <mxGeometry y="660" width="590" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-38" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-37">
+          <mxGeometry width="110" height="180" as="geometry">
+            <mxRectangle width="110" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-39" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-37">
+          <mxGeometry x="110" width="130" height="180" as="geometry">
+            <mxRectangle width="130" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-48" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-37">
+          <mxGeometry x="240" width="130" height="180" as="geometry">
+            <mxRectangle width="130" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TV1Umq3TX2ORutAn-53c-40" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TV1Umq3TX2ORutAn-53c-37">
+          <mxGeometry x="370" width="220" height="180" as="geometry">
+            <mxRectangle width="220" height="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
